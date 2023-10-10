@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toritsevalerie&label=Profile%20views&color=0e75b6&style=flat" alt="toritsevalerie" /> </p>
+
 
 # Welcome, My name is Toritse-Valerie 👋🏾
 <h3 align="left">A highly perceptive front end developer passionate about create, designing and building applications that make life easy, fun and more efficient</h3>
